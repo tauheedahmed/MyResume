@@ -1,7 +1,7 @@
 Tauheed's Resume
 ---
-* Objetive
+# Objetive
 ---
-* Experiene
+# Experiene
 ---
-* Education
+# Education
