@@ -2,6 +2,6 @@ Tauheed's Resume
 
 # Objetive
 
-# Experiene
+# Experience
 
 # Education
